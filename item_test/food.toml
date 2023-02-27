@@ -1,0 +1,8 @@
+[normal_candy]
+name.unix = "普通の飴"
+name.win = "ﾌﾂｳ ﾉ ｱﾒ"
+flavor.unix = "体力が少し回復する甘い飴"
+flavor.win = "ﾀｲﾘｮｸ ｶﾞ ｽｺｼ ｶｲﾌｸ ｽﾙ ｱﾏｲ ｱﾒ"
+hp = 15.0
+craftable = true
+material = ["sugar", "water"]

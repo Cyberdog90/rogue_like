@@ -1,0 +1,2 @@
+class DuplicateWindowNameException(Exception):
+    pass
